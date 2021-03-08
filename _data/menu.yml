@@ -1,0 +1,16 @@
+entries:
+  - title: info
+    entries:
+      - title: about me
+        url: about.html
+      - title: email
+        url: mailto:kacper@kacperserewis.net
+      - title: github
+        url: https://github.com/K4CZP3R
+  - title: projects
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
